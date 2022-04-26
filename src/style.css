@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  color: rgb(104, 49, 10);
+}
+h3 {
+  text-align: center;
+  color: rgb(185, 128, 54);
+}
+body {
+  background-color: rgb(236, 234, 234);
+  max-width: 870px;
+  margin: 0 auto;
+}
+.parag-link {
+  text-align: center;
+  opacity: 0.8;
+}
+h4 {
+  text-align: center;
+}
+a {
+  color: darkblue;
+}
+li {
+  opacity: 0.8;
+}
