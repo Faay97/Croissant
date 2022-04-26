@@ -23,4 +23,8 @@ a {
 }
 li {
   opacity: 0.8;
+  list-style: none;
+}
+.links {
+  padding: 45px;
 }
