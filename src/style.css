@@ -26,6 +26,10 @@ li {
   list-style: none;
 }
 .links a {
-  padding: 45px;
-  margin: 10px;
+  padding-top: 35px;
+}
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
 }
